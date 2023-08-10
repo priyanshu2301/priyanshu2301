@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu2301
-- 👀 I’m interested in making an impact on this world by softwares
-- 🌱 I’m currently learning data science and analysis and machine learning
+- 👀 I’m interested in making an impact on this world by making and protecting softwares and infrastructure
+- 🌱 I’m currently cybersecurity and pentesting
 - 💞️ I’m looking to collaborate on anything that can help me learn new stuff and get excited about
 - 📫 How to reach me priyanshupatel2301@gmail.com
 
